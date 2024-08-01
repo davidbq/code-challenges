@@ -10,7 +10,11 @@ Each challenge includes:
 
 ## 🛠 Languages
 
-Solve challenges in various programming languages, including:
 - Python
+
+## 📁 Project Structure
+
+- **`/challenges`**: Contains individual coding challenges organized by name.
+- **`/solutions`**: Provides solutions organized by name.
 
 ## 🌱 Get Started
